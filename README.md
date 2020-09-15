@@ -14,6 +14,7 @@ These project contain these parts:
 ![enter image description here][5]
 
 5-Exporting the data to web server (like [described here][6] post).
+
 So as we are gonna working on it, we would update the GitHub Repo of this project.
 
 Now we describe the above parts.
@@ -35,11 +36,21 @@ We can use some IRFXX Mosfet connected with one [bjt transistor][14] and for dec
 or we can use some 555 Timer IC to create the 103KHZ frequency and trigger the Mosfet with it like described [here][17]:
 ![enter image description here][18]
 
+...
+
+
+# 5- Sending data to web-serers:
+
+[This post][6] could be used for asynchronous web server which is better that typical httpwebserver connection.
+
+Also can use Node-RED for better graphical web-page designing as described [here][19], and [here][20]:
+
+
 **To DO:** 
 
 Write the 3th, 4th and 5th parts of its.
 
-Also we have one [telegram group][19] for more communication about this project for ourselves.
+Also we have one [telegram group][21] for more communication about this project for ourselves.
 
 **Thanks for your attention.**
 
@@ -62,4 +73,6 @@ Also we have one [telegram group][19] for more communication about this project 
   [16]: https://i.stack.imgur.com/uox8i.jpg
   [17]: https://www.instructables.com/id/Make-Your-Own-Super-Simple-Ultrasonic-Mist-Maker/
   [18]: https://i.stack.imgur.com/jsKph.png
-  [19]: https://t.me/joinchat/CKfLihtRUUbOkM-mKniJww
+  [19]: https://medium.com/@varuldcube100/display-temperature-and-humidity-sensor-data-in-node-red-dashboard-using-esp8266-and-mqtt-node-da8b49cdc33b
+  [20]: https://medium.com/@rjrajbir24/iot-long-range-temperature-and-humidity-sensor-using-node-red-dde2fa23929a
+  [21]: https://t.me/joinchat/CKfLihtRUUbOkM-mKniJww
