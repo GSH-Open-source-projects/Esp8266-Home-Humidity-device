@@ -11,7 +11,7 @@ These project contain these parts:
  3. Power-supply for it.
  4. Designing one beautiful Plastic CAD or use the ordinary Traditional container like [this][1].
 
-SO As we are doing on it we update this project.
+So as we are doing working on it, we would update the GitHub Repo of this project.
 
 For the first part of it i have tried the DHT11 sensor and RL202 sensor which the RL202  reading failed by this codes and the DHT11 try have been successful, by [this code][2] from [this][3] post by adding 200ms delay to the main loop function.:
 
@@ -23,7 +23,7 @@ by this kind of connections:
 
 Also we have one [telegram group][6] for more communication about this project for our self.
 
-Thanks for your attention.
+**Thanks for your attention.**
 
 
   [1]: https://grabcad.com/library/148447
