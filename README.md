@@ -48,7 +48,11 @@ Also can use Node-RED for better graphical web-page designing as described [here
 
 **To DO:** 
 
-Write the 3th, 4th and 5th parts of its.
+Wrting the 3th, 4th and 5th parts of its.
+
+Also, This project could be seen here:
+
+https://medium.com/@elasa2next/this-is-a-project-for-designing-one-humidity-control-by-esp8266-mcu-1199b03a9a5e?sk=ab9c88a848b976f0a30bfb9956c2d3b7
 
 Also we have one [telegram group][21] for more communication about this project for ourselves.
 
