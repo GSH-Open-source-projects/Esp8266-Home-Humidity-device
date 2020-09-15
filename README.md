@@ -18,7 +18,7 @@ So as we are gonna working on it, we would update the GitHub Repo of this projec
 
 Now we describe the above parts.
 
-#1-Sensors Parts:
+# 1-Sensors Parts:
 
 For the first part of it i have tried the **DHT11** sensor and **HR202L** sensor which the **HR202L**  reading failed by this code and the **DHT11** try have been successful, by [this code][7] from [this][8] post by adding 200 ms delay to the main loop function.:
 
@@ -35,6 +35,9 @@ We can use some IRFXX Mosfet connected with one [bjt transistor][14] and for dec
 or we can use some 555 Timer IC to create the 103KHZ frequency and trigger the Mosfet with it like described [here][17]:
 ![enter image description here][18]
 
+**To DO:** 
+
+Write the 3th, 4th and 5th parts of its.
 
 Also we have one [telegram group][19] for more communication about this project for ourselves.
 
