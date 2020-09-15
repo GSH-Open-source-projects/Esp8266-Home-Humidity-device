@@ -28,7 +28,7 @@ By this kind of connections and needs to add [the **DHT11** Lib][10] zip file to
 
 ![enter image description here][13]
 
-**2-Ultrasonic Power Driver:**
+# **2-Ultrasonic Power Driver:**
 
 We can use some IRFXX Mosfet connected with one [bjt transistor][14] and for decreasing switching effect on MCU by using the [optocoupler][15] connected to Micro-controller IC ( ESP8266 or ...) , which could give us different frequency as we needs like described here:
 ![enter image description here][16]
