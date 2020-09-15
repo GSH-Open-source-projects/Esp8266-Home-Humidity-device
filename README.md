@@ -14,7 +14,7 @@ SO As we are doing on it we update this project.
 
 For the first part of it i have tried the DHT11 sensor and RL202 sensor which the RL202  reading failed by this codes and the DHT11 try have been successful as shown below:
 
-[enter image description here][2]
+![enter image description here][2]
 
 
 Also we have one [telegram group][3] for more communication about this project for our self.
