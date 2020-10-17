@@ -36,6 +36,15 @@ We can use some IRFXX Mosfet connected with one [bjt transistor][14] and for dec
 or we can use some 555 Timer IC to create the 103KHZ frequency and trigger the Mosfet with it like described [here][17]:
 ![enter image description here][18]
 
+and [this]9http://ww1.microchip.com/downloads/en/AppNotes/00002265B.pdf) good papers for building it :
+![enter image description here](https://i.stack.imgur.com/RJ57u.png)
+![enter image description here](https://i.stack.imgur.com/16et5.png)
+
+Also for more Voltage you can use boost converter series connections like [this](https://bornaelec.com/dc_dc_appnote_2):
+
+![enter image description here](https://i.stack.imgur.com/OPg4z.png)
+
+
 ...
 
 
