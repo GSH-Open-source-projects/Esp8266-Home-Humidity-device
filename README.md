@@ -47,6 +47,12 @@ Also for more Voltage you can use boost converter series connections like [this]
 Also [one try to build the schematic part](https://easyeda.com/editor#id=%7C2e676d3ad4054bb1b27371c78cef4b28%7C7e04ee07ec1f4f54b8a50234d82a4bc1) of power supply:
 
 ![enter image description here](https://i.stack.imgur.com/2EVXT.png)
+
+Also asked here for some concerns here:
+
+![enter image description here](https://i.stack.imgur.com/UzTZj.png)
+
+
 ...
 
 
